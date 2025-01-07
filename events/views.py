@@ -1,0 +1,1 @@
+# Placeholder for events/views.py

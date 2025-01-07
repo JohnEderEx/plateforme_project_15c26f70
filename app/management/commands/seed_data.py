@@ -1,0 +1,1 @@
+# Placeholder for app/management/commands/seed_data.py
